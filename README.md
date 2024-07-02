@@ -6,10 +6,13 @@ Este projeto tem como objetivo realizar uma análise básica de dados utilizando
 # Projeto
 Este é um projeto da trilha inicial do Codigo Certo, onde foi realizado uma análise dos dados das vendas de cursos, utilizando o streamlit para a construção de um dashboard e um jupyter nootebok para fazer uma análise simples em cima dos dados.
 
+Acesse o dashboard aqui:
+[dashboard de vendas](https://tinyhero13-trilhadadosjr-jun15-main-o9tvpt.streamlit.app)
+
 # O dashboard
 ![dashboard](dash.png)
 
-O relatório faz a análise da receita total das vendas dos cursos, a quantidade de linhas e o total de vendas. Além da visualização da quantidade de vendas por periodo, quais cursos foram mais vendidos e o preço por quantidade de vendas, podendo compreender que quanto mais caro o curso menor a quantidade de venda dele.
+O relatório analisa a receita total das vendas dos cursos, a quantidade de linhas de dados e o total de vendas. Além disso, apresenta uma visualização da quantidade de vendas por período, identificando os cursos mais vendidos e a relação entre preço e quantidade de vendas. A análise revela que, geralmente, quanto mais caro o curso, menor é a quantidade de vendas.
 
 ### Tecnologias e bibliotecas usadas
 * Python
